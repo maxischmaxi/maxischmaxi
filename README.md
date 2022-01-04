@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Max
 - 👀 I’m interested in Coding, Musik and Football (⚽️)
-- 🌱 I’m currently learning Angular
-- 👌🏻 My biggest strengh are Vue2/3, React, Electron
+- 🌱 I’m currently React Native and Swift
+- 👌🏻 My biggest strengh are Vue2/3, React, Electron, Nodejs
 - 📫 How to reach me: maxjeschek@bstreet.de
 
 <!---
